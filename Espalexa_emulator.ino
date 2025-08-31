@@ -17,8 +17,8 @@ void secondLightChanged(uint8_t brightness);
 void thirdLightChanged(uint8_t brightness);
 
 // Change this!!
-const char* ssid = "TP-LINK_B3F5";
-const char* password = "nihao843#";
+const char* ssid = "";
+const char* password = ""; //
 
 boolean wifiConnected = false;
 
